@@ -4,6 +4,9 @@
 			"path": ".alpackages"
 		},
 		{
+			"path": ".vscode"
+		},
+		{
 			"path": "MB800"
 		},
 		{

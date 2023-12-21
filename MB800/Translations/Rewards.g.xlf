@@ -208,6 +208,66 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RewardLevelList - Control MinimumRewardPoints - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Report 3294263780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode to Word</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - NamedType 894568730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - NamedType BarCodeLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportDataItem 3276313895 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportDataItem Item - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching tip title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - RequestPage RequestOptionsPage - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - RequestPage 2516438534 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching tip content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - RequestPage RequestOptionsPage - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - Action 1452384823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LayoutName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - Action LayoutName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportLayout 1186141983 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportLayout LayoutName_Excel - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportLayout 1186141983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel example</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportLayout LayoutName_Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportLayout 825883420 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of RDL file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportLayout LayoutName_RDL - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportLayout 825883420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RDL example</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportLayout LayoutName_RDL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportLayout 2408266040 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print barcode of items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportLayout LayoutName_Word - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 3294263780 - ReportLayout 2408266040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Barcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BarcodePrintToWord - ReportLayout LayoutName_Word - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3655348035 - Control 625069603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Specifies the level of reward that the customer has at this point.</source>
           <note from="Developer" annotates="general" priority="2"></note>

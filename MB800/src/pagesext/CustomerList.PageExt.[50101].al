@@ -8,9 +8,6 @@ pageextension 50101 CustomerList extends "Customer List"
             {
                 ApplicationArea = All;
                 Image = CustomerRating;
-                Promoted = true;
-                PromotedCategory = Process;
-                PromotedIsBig = true;
                 ToolTip = 'Open the list of reward levels.';
 
                 trigger OnAction();
@@ -24,5 +21,13 @@ pageextension 50101 CustomerList extends "Customer List"
                 end;
             }
         }
+        addfirst(Category_Process)
+        {
+            actionref("Reward Levels_Promoted"; "Reward Levels")
+            {
+            }
+        }
     }
+
+
 }

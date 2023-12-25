@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+      {
+        "id": "95285e4f-47cf-4505-b757-3bcebcd99676",
+        "name": "PL300",
+        "publisher": "Default Publisher",
+        "version": "1.0.0.0"
+      }
+  ],
   "screenshots": [],
   "platform": "23.0.0.0",
   "application": "23.0.0.0",

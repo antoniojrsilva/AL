@@ -278,6 +278,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomercardExt - Control RewardPoints - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Method 2457129338 - NamedType 1745623615" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 363045002">
+          <source>The file was not saved, the problem was %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Method SaveXmlFile - NamedType FileNotSavedMessage</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Action 184943607 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Import &amp; Export Customers in CSV from or to a choosen file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Action Export Import Customer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Action 184943607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Import &amp; Export Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Action Export Import Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Action 77881442 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export Xml Sales File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Action Export Sales Query - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 363045002 - Action 77881442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Export Xml Sales File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerList - Action Export Sales Query - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 363045002 - Action 3511348062 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
           <source>Open the list of reward levels.</source>
           <note from="Developer" annotates="general" priority="2"></note>
